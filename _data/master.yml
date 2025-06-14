@@ -45,5 +45,18 @@
   education1: Développement d’un nouvel algorithme de modélisation de l'influence des paramètres climatiques et géographiques sur la structuration génétique de populations de plantes productrices de café
   
   number_fellow: 2
-  fellow1: 🏆 Mitacs Accelerate
-  fellow2: 🏆 Bourse d'excellence de la Faculté des sciences de l’Université de Sherbrooke
+  fellow1: 🏆 <a href="https://www.mitacs.ca/our-programs/accelerate/">Mitacs Accelerate</a>
+  fellow2: 🏆 <a href="https://www.usherbrooke.ca/recherche/fr/etudier/pourquoi-choisir-udes/programmes-bourses/excellence">Bourse d'excellence de la Faculté des sciences de l’Université de Sherbrooke</a>
+
+https://www.mitacs.ca/our-programs/accelerate/
+
+- name: Elio Torquet
+  photo: elio_torquet.jfif
+  info: Master's student (University of Montpellier - intern)
+  email: elio.torquet@usherbrooke.ca
+  number_educ: 1
+  education1: Designed a novel metric for the comparative analysis of tumor phylogenetic trees
+  education2: Collaboration with <a href="https://kimura.univ-montp2.fr/severineberard/">Pr. Sèverine Bérard</a>
+
+  number_fellow: 1
+  fellow1: 🏆 <a href="https://www.mitacs.ca/our-programs/globalink-research-internship-students/">Mitacs Globalink</a>
