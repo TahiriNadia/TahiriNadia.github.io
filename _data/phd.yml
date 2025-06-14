@@ -9,9 +9,10 @@
   #education4: MSc in Physics and Mathematics Education (2010), Astrakhan State University, Astrakhan, Russia
   #education3: Master of Science in Professional Communications, Clark University, Worcester, USA (2011)
   
-  number_fellow: 2
-  fellow1: 🏆 NSERC Doctoral fellow (CGS-D)
-  fellow2: 🏆 Bourse d'excellence de la Faculté des sciences de l’Université de Sherbrooke
+  number_fellow: 3
+  fellow1: 🏆 <a href="https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp">NSERC Doctoral fellow (CGS-D)</a>
+  fellow2: 🏆 <a href="https://frq.gouv.qc.ca/en/program/frqnt-doctoral-training-scholarships/">FRQNT doctoral training scholarships - DECLINED</a>
+  fellow3: 🏆 <a href="https://www.usherbrooke.ca/recherche/fr/etudier/pourquoi-choisir-udes/programmes-bourses/excellence">Bourse d'excellence de la Faculté des sciences de l’Université de Sherbrooke</a>
 
 
 - name: Anna Artiges
@@ -19,7 +20,7 @@
   info: PhD Candidate in Computer Science
   email: anna.artiges@usherbrooke.ca
   number_educ: 1
-  education1: in progress
+  education1: New algorithm for the analysis of homology relationships
 
   
 #- name: Mouhamadou Moustapha Mbaye
