@@ -5,3 +5,11 @@
   number_educ: 2
   education1: Design parameterized algorithms for hard problems in bioinformatics and the comparison of phylogenetic networks.
   education2: Collaboration with <a href="https://mlafond.recherche.usherbrooke.ca/">Pr. Manuel Lafond</a>, <a href="https://cobius.usherbrooke.ca/">Pr. Aïda Ouangraoua</a>, and <a href="https://evolgame.cs.umanitoba.ca/labSite.html">Pr. Olivier Tremblay-Savard</a>.
+
+- name: Kaari Landry
+  photo: Kaari-Landry.png
+  info: Postdoctoral Fellowship
+  email: landryk1@myumanitoba.ca
+  number_educ: 2
+  education1: Simultaneously Building and Reconciling a Synteny Network.
+  education2: Collaboration with <a href="https://www.iro.umontreal.ca/~mabrouk/">Pr. Nadia El-Mabrouk</a>.
