@@ -1,1 +1,7 @@
-
+- name: Bertrand Marchand
+  photo: bmarchand_photo.jpg
+  info: Postdoctoral Fellowship
+  email: bertrand.marchand@usherbrooke.ca
+  number_educ: 2
+  education1: Design parameterized algorithms for hard problems in bioinformatics amd the comparison of phylogenetic networks.
+  education2: Collaboration with <a href="https://mlafond.recherche.usherbrooke.ca/">Pr. Manuel Lafond</a>, <a href="https://cobius.usherbrooke.ca/">Pr. Aïda Ouangraoua</a>, and <a href="https://evolgame.cs.umanitoba.ca/labSite.html">Pr. Olivier Tremblay-Savard</a>.
