@@ -18,7 +18,9 @@ University of Sherbrooke<br/>
 
 <br/>
 
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+-->
     <!-- Menu -->
     <!-- 
     <ol class="carousel-indicators">
@@ -53,6 +55,7 @@ University of Sherbrooke<br/>
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/UdeS2.jpg" alt="Slide 6" />
         </div>
     </div>
+  <!--
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -62,6 +65,8 @@ University of Sherbrooke<br/>
     <span class="sr-only">Next</span>
   </a>
 </div>
+-->
+
 
 We are a dynamic research group within [the Department of Computer Science at the University of Sherbrooke](https://www.usherbrooke.ca/informatique/personnel/corps-professoral/).
 
