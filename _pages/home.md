@@ -18,56 +18,6 @@ University of Sherbrooke<br/>
 
 <br/>
 
-<!--
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
--->
-    <!-- Menu -->
-    <!-- 
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-    </ol>
-    -->
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/lab1.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/UdeS1.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grandprix1.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grandprix2.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grandprix3.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/UdeS2.jpg" alt="Slide 6" />
-        </div>
-    </div>
-  <!--
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
--->
-
-
 We are a dynamic research group within [the Department of Computer Science at the University of Sherbrooke](https://www.usherbrooke.ca/informatique/personnel/corps-professoral/).
 
 Our lab focuses on transdisciplinary research aimed at understanding species evolution. By developing advanced metrics and algorithms for phylogenetic and lineage trees, we analyze genetic information in conjunction with climatic and other ecological parameters to reveal deeper insights into evolutionary processes.
@@ -110,8 +60,8 @@ Our lab highlights community knowledge as a valuable source of information in or
 We are grateful for funding from the University of Sherbrooke, the Fonds de recherche du Québec – Nature et technologies (FRQNT), and the Natural Sciences and Engineering Research Council of Canada (NSERC).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usherbrooke.png" style="width: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usherbrooke.png" style="width: 100px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/frq_logo.png" style="height: 50px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc_logo.png" style="height: 50px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs_logo.png" style="height: 50px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs_logo.png" style="height: 40px">
 </figure>
