@@ -10,8 +10,10 @@
   #education3: Master of Science in Professional Communications, Clark University, Worcester, USA (2011)
   
   number_fellow: 2
-  fellow1: 🏆 <a href="https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp">NSERC Doctoral fellow (CGS-D)</a>
-  fellow2: 🏆 <a href="https://frq.gouv.qc.ca/en/program/frqnt-doctoral-training-scholarships/">FRQNT doctoral training scholarships - DECLINED</a>
+  fellow1: 🏆 <a href="https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp">NSERC Doctoral fellow</a>
+  fellow2: 🏆 <a href="https://frq.gouv.qc.ca/en/program/frqnt-doctoral-training-scholarships/">FRQNT doctoral scholarships - DECLINED</a>
+  #fellow1: 🏆 <a href="https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsd-bescd_eng.asp">NSERC Doctoral fellow (CGS-D)</a>
+  #fellow2: 🏆 <a href="https://frq.gouv.qc.ca/en/program/frqnt-doctoral-training-scholarships/">FRQNT doctoral training scholarships - DECLINED</a>
   #fellow3: 🏆 <a href="https://www.usherbrooke.ca/recherche/fr/etudier/pourquoi-choisir-udes/programmes-bourses/excellence">Bourse d'excellence de la Faculté des sciences de l’Université de Sherbrooke</a>
 
 
