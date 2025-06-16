@@ -60,8 +60,8 @@ Our lab highlights community knowledge as a valuable source of information in or
 We are grateful for funding from the University of Sherbrooke, the Fonds de recherche du Québec – Nature et technologies (FRQNT), and the Natural Sciences and Engineering Research Council of Canada (NSERC).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usherbrooke.png" style="width: 170px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usherbrooke.png" style="width: 160px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/frq_logo.png" style="height: 70px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc_logo.png" style="height: 50px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs_logo.png" style="height: 40px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs_logo.png" style="height: 35px">
 </figure>
