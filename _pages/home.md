@@ -61,7 +61,7 @@ We are grateful for funding from the University of Sherbrooke, the Fonds de rech
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/usherbrooke.png" style="width: 160px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/frq_logo.png" style="height: 67px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/frq_logo.png" style="height: 60px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nserc_logo.png" style="height: 50px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/mitacs_logo.png" style="height: 35px">
 </figure>
