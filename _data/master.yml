@@ -8,27 +8,35 @@
 #  education3:
 #  education4:
 
+- name: Ryan Godin
+  photo: Ryan_Godin.jpg
+  info: Master's student (University of Sherbrooke)
+  email: Ryan.Godin@USherbrooke.ca
+  number_educ: 2
+  education1: Quantum machine learning and algorithm research for hyperspectral and phylogenetic data
+  education2: Collaboration with Pr. Etienne Lord (Agriculture Canada)
+
+- name: Caroline Fortier
+  photo: Caroline_Fortier1.jpg
+  info: Master's student (University of Sherbrooke)
+  email: Caroline.Fortier6@usherbrooke.ca
+  number_educ: 1
+  education1: Environmental and genetic determinants of caffeine rates in Madagascar coffee plants (Coffea spp.)
+
+- name: Mahsa Farnia
+  photo: Mahsa_Farnia1.jpg
+  info: Master's student (University of Sherbrooke)
+  email: Mahsa.Farnia@usherbrooke.ca
+  number_educ: 1
+  education1: A novel generalized metric for comparing B cell lineage trees
+  
 - name: Soumia Melek
   photo: Soumia_Melek1.jpg
   info: Master's student (University of Quebec at Montreal)
   email: melek.soumia@courrier.uqam.ca
   number_educ: 2
-  education1: Un nouvel algorithme pour sélectionner les descripteurs utilisés par les modèles prédictifs des relations quantitatives structure-activité (RQSA).
+  education1: Un nouvel algorithme pour sélectionner les descripteurs utilisés par les modèles prédictifs des relations quantitatives structure-activité (RQSA)
   education2: Collaboration with <a href="http://www.info2.uqam.ca/~makarenkov_v/site_web/index.html">Pr. Vladimir Makarenkov</a>
-
-- name: Mahsa Farnia
-  photo: Mahsa_Farnia1.jpg
-  info: Master's student (University of Sherbrooke)
-  email: mahsa.farnia@usherbrooke.ca
-  number_educ: 1
-  education1: A novel generalized metric for comparing B cell lineage trees
-  
-- name: Caroline Fortier
-  photo: Caroline_Fortier1.jpg
-  info: Master's student (University of Sherbrooke)
-  email: caroline.fortier6@usherbrooke.ca
-  number_educ: 1
-  education1: Environmental and genetic determinants of caffeine rates in Madagascar coffee plants (Coffea spp.)
 
 #- name: Fadi Abu Salem
 #  photo: Fadi_AbuSalem.png
@@ -40,7 +48,7 @@
 - name: Simon Lalonde
   photo: Simon_Lalonde1.jpg
   info: Master's student (University of Sherbrooke)
-  email: simon.lalonde2@usherbrooke.ca
+  email: Simon.Lalonde2@usherbrooke.ca
   number_educ: 1
   education1: Développement d’un nouvel algorithme de modélisation de l'influence des paramètres climatiques et géographiques sur la structuration génétique de populations de plantes productrices de café
   
@@ -51,7 +59,7 @@
 - name: Elio Torquet
   photo: elio_torquet.jfif
   info: Master's student (University of Montpellier - intern)
-  email: elio.torquet@usherbrooke.ca
+  email: Elio.Torquet@usherbrooke.ca
   number_educ: 2
   education1: Designed a novel metric for the comparative analysis of tumor phylogenetic trees
   education2: Collaboration with <a href="https://kimura.univ-montp2.fr/severineberard/">Pr. Sèverine Bérard</a>
