@@ -56,6 +56,15 @@ permalink: /publications/
 
 ## Full List
 
+### In Preparation
+
+{% for publi in site.data.inprepar %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
+
 ### Journal Articles
 
 {% for publi in site.data.publist %}
