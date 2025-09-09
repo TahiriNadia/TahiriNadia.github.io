@@ -3,7 +3,7 @@ title: "Tahiri Lab - Publications"
 layout: gridlay
 excerpt: "Tahiri Lab -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications-list/
 ---
 
 
