@@ -1,4 +1,4 @@
-- title: "k-Nearest Common Leaves Algorithm for Phylogenetic Tree Completion and Comparison"
+- title: "k-Nearest Common Leaves algorithm for phylogenetic tree completion and comparison"
   authors: Aleksandr Koshkarov and Nadia Tahiri (2025)
   link:
     url:
@@ -7,6 +7,14 @@
   news2:
 
 - title: "A polynomial-time algorithm for completing overlapping phylogenetic tree sets"
+  authors: Aleksandr Koshkarov and Nadia Tahiri (2025)
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+
+- title: "New method for assembling biological datasets of phylogenetic trees with overlapping taxa"
   authors: Aleksandr Koshkarov and Nadia Tahiri (2025)
   link:
     url:
