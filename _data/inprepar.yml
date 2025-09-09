@@ -33,3 +33,12 @@
   highlight: 1
   news2:
   year: 2025
+
+- title: "aPhyloGeo: a Python application for correlating genetic and climatic conditions"
+  authors: Ana Laura Chenoweth Galaz and Nadia Tahiri
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+  year: 2025
