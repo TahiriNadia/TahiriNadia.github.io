@@ -1,14 +1,27 @@
 {% assign items = include.items | default: empty %}
-{% assign groups = items
-  | group_by_exp: "i", "i.year | default: i.date | date: '%Y' | default: 'TBD'"
-%}
 
-{% assign tbd = groups | where: "name", "TBD" %}
-{% assign rest = groups | where_exp: "g", "g.name != 'TBD'" | sort: "name" | reverse %}
+{%- comment -%}
+If any item has a `year`, group by that.
+Otherwise, extract year from `date`.
+{%- endcomment -%}
+{% assign count_with_year = items | where_exp: "x", "x.year" | size %}
+
+{% if count_with_year > 0 %}
+  {% assign sorted = items | sort: "year" | reverse %}
+  {% assign groups = sorted | group_by: "year" %}
+{% else %}
+  {% assign sorted = items | sort: "date" | reverse %}
+  {% assign groups = sorted | group_by_exp: "i", "i.date | date: '%Y'" %}
+{% endif %}
+
+{%- comment -%} Put "TBD" (no year/date) first, then years desc {%- endcomment -%}
+{% assign groups = groups | sort: "name" | reverse %}
+{% assign tbd = groups | where: "name", "" | concat: (groups | where: "name", "TBD") %}
+{% assign rest = groups | where_exp: "g", "g.name != '' and g.name != 'TBD'" %}
 {% assign ordered = tbd | concat: rest %}
 
 {% for group in ordered %}
-#### {{ group.name }}
+#### {{ group.name | default: "TBD" }}
 <ul>
 {% for publi in group.items %}
   <li>
