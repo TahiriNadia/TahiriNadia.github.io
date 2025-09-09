@@ -1,0 +1,23 @@
+{% assign items = include.items | default: empty %}
+{% assign groups = items
+  | group_by_exp: "i", "i.year | default: i.date | date: '%Y' | default: 'TBD'"
+%}
+
+{% assign tbd = groups | where: "name", "TBD" %}
+{% assign rest = groups | where_exp: "g", "g.name != 'TBD'" | sort: "name" | reverse %}
+{% assign ordered = tbd | concat: rest %}
+
+{% for group in ordered %}
+#### {{ group.name }}
+<ul>
+{% for publi in group.items %}
+  <li>
+    <strong>{{ publi.title }}</strong><br />
+    <em>{{ publi.authors }}</em><br />
+    {% if publi.link and publi.link.url %}
+      <a href="{{ publi.link.url }}">{{ publi.link.display | default: publi.link.url }}</a>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+{% endfor %}
