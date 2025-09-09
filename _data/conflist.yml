@@ -1,3 +1,12 @@
+- title: "Finding maximum common contractions between phylogenetic networks"
+  authors: Bertrand Marchand, Nadia Tahiri, Olivier Tremblay-Savard, and Manuel Lafond
+  link:
+    url: https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.WABI.2024.16
+    display: 24th International Workshop on Algorithms in Bioinformatics (WABI 2024)
+  highlight: 1
+  news2:
+  year: 2025
+
 - title: "Graph-based method for constructing consensus trees"
   authors: Elio Torquet, Jesper Jansson, and Nadia Tahiri
   link:
