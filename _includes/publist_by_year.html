@@ -1,8 +1,7 @@
 {% assign items = include.items | default: empty %}
 
 {%- comment -%}
-If any item has a `year`, group by that.
-Otherwise, extract year from `date`.
+
 {%- endcomment -%}
 {% assign count_with_year = items | where_exp: "x", "x.year" | size %}
 
