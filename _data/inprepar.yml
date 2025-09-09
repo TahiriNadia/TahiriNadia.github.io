@@ -24,3 +24,12 @@
   highlight: 1
   news2:
   year: 2025
+
+- title: "Quantum vs. Classical machine learning classification for hyperspectral data"
+  authors: Ryan Godin, Nadia Tahiri, Nathaniel Newlands, and Étienne Lord
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+  year: 2025
