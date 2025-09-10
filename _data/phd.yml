@@ -20,11 +20,17 @@
 - name: Anna Artiges
   photo: Anna_Artiges.jpg
   info: PhD Candidate in Computer Science
-  email: anna.artiges@usherbrooke.ca
+  email: Anna.Artiges@usherbrooke.ca
   number_educ: 1
   education1: New algorithm for the analysis of homology relationships
 
-  
+- name: Lida Hooshyar
+  photo: Lida_Hooshyar.jpg
+  info: PhD Candidate in Computer Science
+  email: Lida.Hooshyar@USherbrooke.ca
+  number_educ: 1
+  education1: Phylogenetic supertrees reconstruction and analysis using topological approaches.
+
 #- name: Mouhamadou Moustapha Mbaye
 #  photo: Mouhamadou_Moustapha_Mbaye.jpg
 #  info: PhD Student in Computer Science (Université Alioune Diop De Bambey - Sénégal et Unversité de Sherbrooke - Canada)
