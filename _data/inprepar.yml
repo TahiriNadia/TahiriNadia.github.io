@@ -42,3 +42,21 @@
   highlight: 1
   news2:
   year: 2025
+
+  - title: "PhyloCartoPlot: A Python toolkit for integrating climate, environmental, biodiversity and genetic data in Madagascar"
+  authors: Caroline Fortier and Nadia Tahiri
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+  year: 2025
+
+  - title: "From climate to caffeine: environmental influences on wild coffea species in Madagascar"
+  authors: Caroline Fortier and Nadia Tahiri
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+  year: 2025
