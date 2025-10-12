@@ -34,15 +34,6 @@
   news2:
   year: 2025
 
-- title: "aPhyloGeo: a Python application for correlating genetic and climatic conditions"
-  authors: Ana Laura Chenoweth Galaz and Nadia Tahiri
-  link:
-    url:
-    display:
-  highlight: 1
-  news2:
-  year: 2025
-
 - title: "PhyloCartoPlot: A Python toolkit for integrating climate, environmental, biodiversity and genetic data in Madagascar"
   authors: Caroline Fortier and Nadia Tahiri
   link:
