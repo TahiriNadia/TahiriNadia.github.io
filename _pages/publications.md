@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=cOfpZhEAAAAJ&hl=en), [ResearcherID](https://publons.com/researcher/4408378/nadia-tahiri/), [researchgate](https://www.researchgate.net/profile/Nadia-Tahiri))
+(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=cOfpZhEAAAAJ&hl=en), [ResearcherID](https://publons.com/researcher/4408378/nadia-tahiri/), [researchgate](https://www.researchgate.net/profile/Nadia-Tahiri), [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-1818-208X))
 
 ## Full List
 
