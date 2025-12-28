@@ -20,6 +20,7 @@ The geographic distribution of species is of great interest to ecologists. In th
 
 ### Related publication:
 
+- Chenoweth Galaz, A. L., & Tahiri, N. (2025). aPhyloGeo: a Python application for correlating genetic and climatic conditions. Bioinformatics, 41(11), btaf574.
 - Li, W. & Tahiri, N. (2024). Host-Virus Cophylogeny Trajectories: Investigating Molecular Relationships between Coronaviruses and Bat Hosts. Viruses, 16(7), p.1133.
 - Gagnon, J. & Tahiri, N. (2024). Ecological and Spatial Influences on the Genetics of Cumacea (Crustacea: Peracarida) in the Northern North Atlantic. roceeding in SciPy, pp.196-215, Tacoma, WA, USA
 - Li, W. & Tahiri, N. (2023). aPhyloGeo-Covid: A Web Interface for Reproducible Phylogeographic Analysis of SARS-CoV-2 Variation using Neo4j and Snakemake. Proceeding in SciPy 2023, Auxtin, TX, USA
@@ -28,6 +29,7 @@ The geographic distribution of species is of great interest to ecologists. In th
 
 ### FUNDING:
 
+- Bourses de Stage de recherche Globalink
 - Bourses du Fonds interculturel - Antje Bettin (Cycles supérieurs)
 - Bourse d’excellence de l’UQAM pour cycles supérieurs (FARE)
 - Bourse d'excellence Hydro-Québec et Fondation J. A. DeSève
