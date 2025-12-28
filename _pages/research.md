@@ -37,6 +37,10 @@ permalink: /research/
 ### [IV. Phylogeography: Evolution and climat]({{ site.url }}{{ site.baseurl }}/climatic)
 *The genetic and demographic phenomena, in particular the phenomena of speciation, which have led to the distribution and the current geographic structuring of populations, involving paleography, is particularly promising for making predictions on emerging viral pathogens.*
 
+
+### [V. Metrics for comparing Lateral-Gene transfer networks]({{ site.url }}{{ site.baseurl }}/networks)
+*A novel metric is introduced for comparing Lateral-Gene Transfer (LGT) networks, which are trees augmented with transfer arcs representing genetic exchanges. The metric, based on edit operations, is computationally efficient in many cases and is demonstrated through simulations and two proof-of-concept biological applications.*
+
 <!--
 
 ### [V. Data and software]({{ site.url }}{{ site.baseurl }}/software)
