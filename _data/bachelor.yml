@@ -21,6 +21,14 @@
 - name: Justin Gagnon
   photo: Justin_Gagnon1.png
   info: Bachelor’s student in Ecology Science (University of Sherbrooke)
-  email: justin.gagnon2@usherbrooke.ca 
+  email: Justin.Gagnon2@usherbrooke.ca 
   number_educ: 1
   education1: Ecological and geographic influences on cumacea genetics in the Northern North Atlantic
+
+- name: Gabriel Dumont-Hétu
+  photo: Gabriel_Dumont-Hetu.png
+  info: Bachelor’s student in Mathematics (University of Sherbrooke)
+  email: Gabriel.Dumont-Hetu@USherbrooke.ca
+  number_educ: 2
+  education1: Graph-based Mathematical Method for the Construction of Supertrees
+  education2: NSERC Undergraduate Research Award and FRQNT Research Fund
