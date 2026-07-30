@@ -9,7 +9,7 @@ permalink: /
 <br/>
 <div align="center">
 Nadia Tahiri, PhD<br/>
-Assistant Professor, Computer Science<br/>
+Associate Professor, Computer Science<br/>
 University of Sherbrooke<br/>
 📧 <a href="mailto:nadia.tahiri@usherbrooke.ca">Nadia.Tahiri@USherbrooke.ca</a><br/>
 🌐 <a href="https://www.usherbrooke.ca/informatique/nous-joindre/personnel/corps-professoral/professeurs/nadia-tahiri">Institutional page</a><br/>
